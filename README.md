@@ -1,2 +1,2 @@
-# garza-project-2
+# Garza's 2nd Project
  My second project
